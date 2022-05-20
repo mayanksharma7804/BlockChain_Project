@@ -8,8 +8,5 @@ You can find the tutorial here:
 
 https://docs.alchemy.com/alchemy/road-to-web3/weekly-learning-challenges/2.-how-to-build-buy-me-a-coffee-defi-dapp
 
-Demo:
-
-https://replit.com/@d3vd00m/BuyMeACoffee-Solidity-DeFi-Tipping-app
 
 

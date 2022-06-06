@@ -4,7 +4,10 @@ Buy Me A Coffee is a popular website that creators, educators, entertainers, and
 
 In this Dapp we have a "Buy Me a Coffee" smart contract that allows visitors to send you (fake) ETH as tips and leave nice messages, using Alchemy, Hardhat, Ethers.js, and Ethereum Goerli.
 
-You can find the tutorial here:
+Demo here:
+https://buymeacoffee-solidity-defi-tipping-app.d3vd00m.repl.co/
+
+Tutorial here:
 
 https://docs.alchemy.com/alchemy/road-to-web3/weekly-learning-challenges/2.-how-to-build-buy-me-a-coffee-defi-dapp
 

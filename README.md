@@ -8,9 +8,6 @@ Demo here:
 
 https://buymeacoffee-solidity-defi-tipping-app.d3vd00m.repl.co/
 
-Tutorial here:
-
-https://docs.alchemy.com/alchemy/road-to-web3/weekly-learning-challenges/2.-how-to-build-buy-me-a-coffee-defi-dapp
 
 
 

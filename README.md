@@ -1,4 +1,4 @@
-# Buy Me a Chai DApp
+# Buy Me a Chai DApp {lmao}
 
 ## Overview
 
